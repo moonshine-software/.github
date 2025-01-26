@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://moonshine-laravel.com" target="_blank">
-<img src="https://moonshine-laravel.com/moon-promo-dark.svg?v=2.0.0">
+<img src="https://github.com/moonshine-software/moonshine/raw/3.x/art/line-2.jpg">
 </a>
 </p>
 
